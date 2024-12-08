@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Tourette Syndrome is a neurodevelopmental disorder characterized by making involuntary movements and vocalizations, called tics. For individuals with severe tics, movements and vocalizations can be misinterpreted as intoxication or aggression by law enforcement, leading to escalation.
+Tourette Syndrome is a neurodevelopmental disorder characterized by making involuntary movements and vocalizations, called tics. For individuals with severe tics, their movements and vocalizations can be misinterpreted as intoxication or aggression by law enforcement, leading to escalation.
 
 The Disability Forewarning System is a device that drivers with Tourette's install in their cars to prevent police from misinterpreting tics at a traffic stop. The device attaches to the rear window of a car and has an ePaper display that remains out of sight until a driver presses a button housed in the cup holder. Once pressed, the ePaper display is rotated into view by a servo motor controlled over Bluetooth and displays the message "Driver Has Tourette Syndrome." By informing officers that a driver has Tourette's, a potentially dangerous situation can be defused.
 
